@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I'm in love 光る海",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:28:31.221925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm in Love With the Hero",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_I'm_in_Love_With_the_Hero_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm In Love With My Car - Live At The Montreal Forum / November 1981",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_I'm_In_Love_With_My_Car_-_Live_At_The_Montreal_Forum___November_1981_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I’m in Love With My Car",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_I’m_in_Love_With_My_Car_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Think I'm in Love",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/04_I_Think_I'm_in_Love_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I think I'm In Love (Prod. S. Class)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/05_I_think_I'm_In_Love_(Prod._S._Class)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feels Like I'm in Love",
+      "artist": "Kelly Marie",
+      "has_synced": false,
+      "path": "select/06_Feels_Like_I'm_in_Love_Kelly_Marie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Friday I'm in Love",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_Friday_I'm_in_Love_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm In Love With a Ripper (Party Mix)",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/08_I'm_In_Love_With_a_Ripper_(Party_Mix)_YACHT.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm In Love With a Ripper",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/09_I'm_In_Love_With_a_Ripper_YACHT.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Friday I'm In Love",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Friday_I'm_In_Love_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm In Love",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/11_I'm_In_Love_Moby.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WHEN I'M IN LOVE FT. THOMAS KNIGHTS",
+      "artist": "Maya Jane Coles",
+      "has_synced": true,
+      "path": "select/12_WHEN_I'M_IN_LOVE_FT._THOMAS_KNIGHTS_Maya_Jane_Coles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When I'm In Love (feat. Thomas Knights)",
+      "artist": "Maya Jane Coles",
+      "has_synced": true,
+      "path": "select/13_When_I'm_In_Love_(feat._Thomas_Knights)_Maya_Jane_Coles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(I'm in Love with Your) Girlfriend",
+      "artist": "Citizen's",
+      "has_synced": true,
+      "path": "select/14_(I'm_in_Love_with_Your)_Girlfriend_Citizen's.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Know Why I'm In Love",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/15_I_Know_Why_I'm_In_Love_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm In Love With My Car - Live",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/16_I'm_In_Love_With_My_Car_-_Live_Queen.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm in Love With My Car",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/17_I'm_in_Love_With_My_Car_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm in love 光る海",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_in_love_光る海_サンボマスター.txt"
+    }
+  ]
+}
